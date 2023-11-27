@@ -1,7 +1,7 @@
 {
 	"aims": {
 	"version": "1.0.7",
-	"timeout": true,
+	"timeout": false,
 	"message": "We have fixed some issues and added some cool features in this update."
 	}
 	}
